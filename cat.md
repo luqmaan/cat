@@ -9,6 +9,10 @@ https://dev.socrata.com/docs/queries/
 
 https://data.austintexas.gov/resource/fdzn-9yqv.json?$where=Animal_Type=%22Cat%22
 
+---------
+
+https://data.austintexas.gov/resource/fdzn-9yqv.json?$where=animal_id=%22A726220%22
+
 ```json
 [
   {
